@@ -36,5 +36,5 @@
 *.color15:      #ddcded
 
 URxvt.scrollBar: false
-URxvt.font: xft:Cica:size=11
+URxvt.font: xft:Cica:size=11,xft:Iosevka Nerd Font:size=11
 URxvt.internalBorder: 16
