@@ -7,3 +7,5 @@ export XMODIFIERS=@im=fcitx5
 export GTK_THEME=Dracula
 
 fcitx5 &
+
+alias steam="XMODIFIERS='' steam"

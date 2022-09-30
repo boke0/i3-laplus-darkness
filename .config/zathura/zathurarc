@@ -1,0 +1,8 @@
+set selection-clipboard clipboard
+set recolor true
+set recolor-lightcolor "#202020"
+set recolor-darkcolor "#DDCDED"
+set statusbar-bg "#807296"
+set statusbar-fg "#202020"
+set inputbar-bg "#433161"
+set inputbar-fg "#FF5250"
